@@ -1,0 +1,4 @@
+strCmd = "shutdown -s  -t 25 -f"  
+set objShell = CreateObject("WScript.Shell")
+objShell.Run strCmd 
+wscript.echo  "Shutdown soon"
