@@ -1,0 +1,6 @@
+set color: color01, color02, color03, etc
+pinging: ping "adress" -t
+adapter config: ipconfig
+nslookup
+ipconfig /release
+ipconfig /renew
