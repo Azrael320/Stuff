@@ -1,0 +1,12 @@
+@echo off
+cls
+echo Time and date
+echo Ora: %time% Data: %date%
+pause
+cls
+Systeminfo
+pause
+cls
+echo Hostname:
+hostname
+pause
