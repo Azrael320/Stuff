@@ -1,0 +1,44 @@
+Selective lock:
+
+Lock/Unlock after departure
+
+[Select]
+[46 - Cent. Conv.] (35 - Cent. Locking )
+[Adaptation - 10]
+Channel (03..08)
+Values (1 = on, 2 = off)
+[Save]
+
+Channel 03 Auto Lock
+Channel 04 Auto Unlock
+Channel 05 Unlock, horn sounds
+Channel 06 Lock, horn sounds
+Channel 07 Unlock, turn signals flash
+Channel 08 Unlock, turn signals flash
+
+[Select]
+[46 - Cent. Conv.]
+[Long Coding - 07]
+[Long Coding Helper]
+Click on each of the Byte numbers in step 3) and you'll see the selectable options below.
+Uncheck the box for "Comfort function power windows/sunroof via remote control inactive"
+Check the box for "Comfort opening power windows via remote control active"
+Check the box for "Comfort closing power windows via remote control active"
+Check the box for "Closing sunroof via remote control active"
+[Transfer Coding]
+[Do It!] 
+
+
+[Select]
+[17 - Instruments]
+
+[Adaptation - 10]
+Input Channel 4
+
+Channel 4 : language values
+00001 German 
+00002 English 
+00003 French 
+00004 Italian 
+00005 Spanish 
+00006 Portuguese
