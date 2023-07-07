@@ -1,0 +1,8 @@
+Reach Computer Management 
+Reach Device Manager
+Expand Ports (COM & LPT) category
+Select USB Serial Port
+Click Properties
+Select Port Settings -> Advanced
+Select COM9
+Latency Timer -> Value 1
